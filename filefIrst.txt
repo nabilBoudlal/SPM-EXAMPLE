@@ -1,3 +1,7 @@
 first file
 mofied by B
+<<<<<<< HEAD
 second change by B
+=======
+mofied by A
+>>>>>>> 7580fcdc72ba45369cc9b1aaabfad302d48adc3d
