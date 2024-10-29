@@ -1,2 +1,3 @@
 first file
 mofied by B
+mofied by A
